@@ -4,4 +4,4 @@ Painting Board made with VanillaJS
 
 출처: 노마드코더 https://nomadcoders.co/
 
-강의: https://nomadcoders.co/javascript-for-beginners/lobby
+강의: https://nomadcoders.co/javascript-for-beginners-2/lobby
