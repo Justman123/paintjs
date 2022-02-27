@@ -50,7 +50,7 @@ function handleColorClick(event) { // 컬러 클릭 핸들러
     if (document.querySelectorAll(".clicked1").length >= 2) { // 중복 선택 확인
     document.getElementsByClassName("clicked1")[0].classList.remove("clicked1");
     document.getElementsByClassName("clicked1")[0].classList.remove("clicked1");
-    ctx.strokeStyle = "white";
+    ctx.strokeStyle = "#2c2c2c";
     ctx.fillStyle = "white";
     }
 }
