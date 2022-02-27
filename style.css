@@ -63,3 +63,9 @@ body {
 .controls .controls_range {
     margin-bottom: 20px;
 }
+
+.controls_colors .clicked1 {
+    width: 65px;
+    height: 65px;
+    border: solid rgba(255, 255, 255, 0.479);
+}
